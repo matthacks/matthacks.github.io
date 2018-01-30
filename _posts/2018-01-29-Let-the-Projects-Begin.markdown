@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let the Projects Begin."
+title:  "Let the Projects Begin"
 date:   2018-01-29
 categories: project learning resources
 ---
